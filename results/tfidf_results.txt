@@ -1,0 +1,38 @@
+TF-IDF Results - Surah Al-Fatiha
+
+Word : TF-IDF Weight (total)
+----------------------
+الحمد : 0.5000
+الدين : 0.5774
+الذين : 0.3015
+الرحمن : 1.1587
+الرحيم : 1.1587
+الصراط : 0.5774
+الضالين : 0.3015
+العالمين : 0.5000
+الله : 0.5441
+المستقيم : 0.5774
+المغضوب : 0.3015
+انعمت : 0.3015
+اهدنا : 0.5774
+اياك : 0.8165
+بسم : 0.5441
+رب : 0.5000
+صراط : 0.3015
+عليهم : 0.6030
+غير : 0.3015
+لا : 0.3015
+لله : 0.5000
+مالك : 0.5774
+نستعين : 0.4082
+نعبد : 0.4082
+يوم : 0.5774
+
+TF-IDF Matrix (per verse):
+[np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.4516), np.float64(0.4516), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.5441), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.5441), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0)]
+[np.float64(0.5), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.5), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.5), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.5), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0)]
+[np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.7071), np.float64(0.7071), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0)]
+[np.float64(0.0), np.float64(0.5774), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.5774), np.float64(0.0), np.float64(0.0), np.float64(0.5774)]
+[np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.8165), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.4082), np.float64(0.4082), np.float64(0.0)]
+[np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.5774), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.5774), np.float64(0.0), np.float64(0.0), np.float64(0.5774), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0)]
+[np.float64(0.0), np.float64(0.0), np.float64(0.3015), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.3015), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.3015), np.float64(0.3015), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.3015), np.float64(0.603), np.float64(0.3015), np.float64(0.3015), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0)]
